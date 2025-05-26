@@ -1,5 +1,5 @@
 # Goliath_by_Bart
-This is a simulation package for the Goliath robot working on a mobile base created by Mr. Bart van der Haagen (b.vanderhaagen76@gmail.com).
+This is a simulation package for the Goliath robot working on a mobile base created by Mr. Bart van der Haagen.
 
 I have created a Gazebo Classic simulation working with key_teleop and Moveit2 in ROS2 Humble.
 
